@@ -46,11 +46,9 @@ export function PaperCard({ locale, slug }: { locale: Locale; slug: string }) {
 export default function WorkList({
   locale,
   showHeader = true,
-  showNote = true,
 }: {
   locale: Locale;
   showHeader?: boolean;
-  showNote?: boolean;
 }) {
   const d = getDict(locale);
   return (
@@ -75,13 +73,6 @@ export default function WorkList({
             <PaperCard key={p.slug} locale={locale} slug={p.slug} />
           ))}
         </div>
-
-        {showNote && (
-          <div
-            className="mt-6 rounded-xl border border-dashed border-bronze-soft bg-paper-2 px-[18px] py-3.5 text-[13.5px] leading-relaxed text-muted [&_b]:text-bronze"
-            dangerouslySetInnerHTML={{ __html: d.workNote }}
-          />
-        )}
       </div>
     </section>
   );

@@ -14,7 +14,6 @@ export default function Header({ locale }: { locale: Locale }) {
 
   const home = `/${locale}`;
   const links = [
-    { key: "about", href: `${home}#about`, label: d.nav.about },
     { key: "work", href: `${home}/research`, label: d.nav.work },
     { key: "award", href: `${home}#award`, label: d.nav.award },
     { key: "cv", href: `${home}#cv`, label: d.nav.cv },
