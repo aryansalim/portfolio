@@ -28,11 +28,11 @@ export const papers: Paper[] = [
     subtitleKu: "شیکردنەوەیەکی نیشانەناسانەی شوناس و خەباتی نەتەوەیی لە فیلمی «زەر»",
     subtitleEn: "A semiotic analysis of national identity and resistance in the film Zer",
     venueEn: "25th Galawêj International Festival, Sulaymaniyah · 1st Place, Research",
-    venueKu: "٢٥ەمین فێستیڤاڵی نێودەوڵەتی گەلاوێژ، سلێمانی · پلەی یەکەم، توێژینەوە",
+    venueKu: "٢٥ەمین فێستیڤاڵی نێودەوڵەتی گەلاوێژ، سلێمانی · پلەی یەکەم لە توێژینەوەدا",
     abstractEn:
       "This study examines the historical struggle and resistance of the Kurdish nation in Northern Kurdistan. Presented at the 25th Galawêj International Festival in Sulaymaniyah in 2022, the research was selected among only seven works accepted from forty-one submissions, and was awarded 1st place.",
     abstractKu:
-      "ئەم لێکۆڵینەوەیە خەبات و تێکۆشانی مێژوویی نەتەوەی کورد لە باکووری کوردستان دەخاتە بەرباس. لە ٢٥ەمین فێستیڤاڵی نێودەوڵەتی گەلاوێژ لە سلێمانی، ساڵی ٢٠٢٢ پێشکەشکرا و لەنێو تەنها ٧ لێکۆڵینەوەی پەسەندکراو لە کۆی ٤١ بەرهەم هەڵبژێردرا و پلەی یەکەمی بەدەستهێنا.",
+      "ئەم لێکۆڵینەوەیە خەبات و تێکۆشانی مێژوویی نەتەوەی کورد لە باکووری کوردستان دەخاتە بەرباس. لەنێو ٤١ بەرهەمی پێشکەشکراودا، تەنها وەک یەکێک لە ٧ توێژینەوە پەسەندکراوەکە هەڵبژێردرا و پلەی یەکەمی بەدەستهێنا.",
     sources: {
       helin: "https://www.helinmedia.org/all-detail.aspx?jimare=1757",
       kurdipedia: "https://kurdipedia.org/default.aspx?lng=1&q=20220530170136415492",
